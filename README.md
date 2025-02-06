@@ -1,3 +1,3 @@
 # kopitiam
 
-Repository related to Sinar's community website kopitiam.sinarproject.org
+Repository related to Sinar's Mattermost platform kopitiam.sinarproject.org 
