@@ -2,8 +2,6 @@
 
 Repository related to Sinar's Mattermost platform kopitiam.sinarproject.org 
 
-Currently running on: `thor`: `192.168.0.166:8065`
-
 ## To deploy
 1. Prepare database https://docs.mattermost.com/install/prepare-mattermost-database.html. To ensure that `mmuser` has all privileges on the database, `ALTER ROLE mmuser WITH SUPERUSER`
   
