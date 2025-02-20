@@ -1,3 +1,11 @@
+---
+name: Pull Request
+about: Submit a pull request with changes to branch
+title: '[Pull Request]: '
+labels: 'pullrequest'
+assignees: 'samqi'
+---
+
 ## Describe the proposed changes included in this pull request
 
 <!-- please describte which issue or features this pull requests is addressing. and the specific changes to code branch.

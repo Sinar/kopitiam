@@ -2,9 +2,8 @@
 name: Feature request
 about: Suggest an idea for this project
 labels: 'enhancement'
-title: '[FOE-KM/Sinar Feature req]: '
+title: '[Feature req]: '
 assignees: 'samqi'
-projects: ["Sinar/7"]
 
 ---
 

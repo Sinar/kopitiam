@@ -1,10 +1,9 @@
 ---
 name: Documentation
 about: Suggest an idea for this project
-title: '[FOE-KM/Sinar Doc]: '
+title: '[Docs]: '
 labels: 'documentation'
 assignees: 'samqi'
-projects: ["Sinar/7"]
 
 ---
 
