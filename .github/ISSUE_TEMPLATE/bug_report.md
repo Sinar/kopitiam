@@ -1,10 +1,10 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: 'Bug/Issue: '
+title: '[FOE-KM/Sinar]: '
 labels: 'bug'
-assignees: ''
-
+assignees: 'samqi'
+projects: ["Sinar/7"]
 ---
 
 **Describe the bug**

@@ -1,9 +1,10 @@
 ---
 name: Documentation
 about: Suggest an idea for this project
-title: 'Documentation : '
-labels: documentation, question
-assignees: ''
+title: '[FOE-KM/Sinar Doc]: '
+labels: 'documentation'
+assignees: 'samqi'
+projects: ["Sinar/7"]
 
 ---
 

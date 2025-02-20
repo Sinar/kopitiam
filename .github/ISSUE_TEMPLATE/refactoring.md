@@ -1,9 +1,11 @@
 ---
 name: Refactoring
-about: Suggest a refactoring for this project
-title: '[Refactoring] : '
+about: Suggest a refactoring for this project. Suggest & describe the reasons to revamp the codes to suit the latest needs
 labels: question, enhancement
-assignees: ''
+title: '[FOE-KM/Sinar refactoring]: '
+labels: 'bug'
+assignees: 'samqi'
+projects: ["Sinar/7"]
 
 ---
 
